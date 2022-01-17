@@ -1,0 +1,37 @@
+.container {
+    color: white;
+    text-align: center;
+}
+
+#header, #bottom {
+    display: flex;
+}
+
+.home, .about {
+    width: 140px;
+    height: 300px;
+    background-color: #3070be;
+}
+
+.kabobs {
+    width: 290px;
+    height: 140px;
+    background-color: #3070be;
+    margin-top: 10px;
+}
+
+.shishkabobs, .bbq, .summer {
+    width: 90px;
+    height: 140px;
+    background-color: #244e80;
+    margin-top: 10px;
+}
+
+.bbq {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.home {
+    margin-right: 10px;
+}

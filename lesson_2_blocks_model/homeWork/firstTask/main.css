@@ -1,0 +1,41 @@
+#main {
+    width: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+.a, .b, .c, .d, .e, .f {
+    background-color: #fead23;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border:1px solid #000;
+    text-align: center;
+    margin: 20px;
+}
+
+.e, .f {
+    border-radius: 5px;
+}
+
+.a {
+    box-shadow: #505050 10px 10px;
+}
+
+.b, .e {
+    box-shadow: #505050 10px 10px 5px;
+}
+
+.c {
+    box-shadow: #505050 10px 10px 5px 3px;
+}
+
+.d {
+    box-shadow: #a3a3a3 10px 10px 5px 3px;
+}
+
+.f {
+    box-shadow: #a3a3a3 10px 10px 5px;
+}

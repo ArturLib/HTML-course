@@ -1,0 +1,50 @@
+#header {
+    height: 50px;
+    width: 400px;
+    background-color: #e7f7b4;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.mainmenu {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+#menu {
+    height: 400px;
+    width: 100px;
+    background-color: #febafe;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+#post {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.post1, .post2 {
+    height: 200px;
+    width: 285px;
+    background-color: #a4e3fe;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.post2 {
+    margin-top: 15px;
+}
+
+#footer {
+    height: 50px;
+    width: 400px;
+    background-color: #fefecc;
+    box-sizing: border-box;
+    border: 1px solid black;
+}

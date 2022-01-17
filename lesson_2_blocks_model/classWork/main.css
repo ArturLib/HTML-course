@@ -1,0 +1,53 @@
+.yourname {
+    background-color: #3e3e3e;
+    display: table-cell;
+    vertical-align: middle;
+}
+.orange, .blue, .violet, .red {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    padding-top: 10px;
+    background-color: #323232;
+    box-sizing: border-box;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.orange {
+    border:5px solid #ff752f;
+    color: #ff7b2c;
+}
+
+.blue {
+    border:5px solid #3afff2;
+    color: #32fff3;
+}
+
+.violet {
+    border:5px solid #ff5da9;
+    color: #ff5da9;
+}
+
+.red {
+    border:5px solid #ff494a;
+    color: #ff494a;
+}
+
+.silverbox {
+    background-color: #868686;
+    height: 400px;
+    width: 800px;
+    margin-top: 100px;
+    box-shadow: #d7bc99 -40px -50px 60px 40px;
+}
+
+.paragraph {
+    border-left: 5px solid #d22625;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+p {
+    margin: 5px;
+}

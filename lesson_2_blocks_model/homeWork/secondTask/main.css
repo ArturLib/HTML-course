@@ -1,0 +1,32 @@
+.header {
+    background-color: #8f3433;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.secondBlock {
+    background-color: silver;
+    padding: 10px;
+}
+
+.thirdBlock {
+    background-color: #6c9aec;
+    padding: 40px 0;
+}
+
+#box {
+    background-color: #72bd6f;
+    height: 200px;
+    width: 200px;
+}
+
+#roundedBox {
+    background-color: #8e8cae;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}

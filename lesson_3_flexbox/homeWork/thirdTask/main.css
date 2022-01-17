@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    color: white;
+    text-align: center;
+}
+
+.widgets {
+    height: 200px;
+    background-color: #3070be;
+    margin-bottom: 15px;
+}
+
+.midlwidgets {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.big, .bigger, .huge {
+    height: 150px;
+    width: 90px;
+    background-color: #244e80;
+}
+
+.contact {
+    height: 400px;
+    background-color: #3070be;
+}
+

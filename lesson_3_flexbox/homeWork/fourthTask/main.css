@@ -1,0 +1,38 @@
+#header, #nav, #footer, .container {
+    color: white;
+    text-align: center;
+}
+
+#header {
+    width: 400px;
+    height: 50px;
+    background-color: #1e6bab;
+}
+
+#nav {
+    width: 400px;
+    height: 40px;
+    background-color: #21547e;
+}
+
+.container {
+    display: flex;
+}
+
+#main {
+    width: 300px;
+    height: 260px;
+    background-color: #28a6c7;
+}
+
+#aside {
+    width: 100px;
+    height: 260px;
+    background-color: #5a7bb1;
+}
+
+#footer {
+    width: 400px;
+    height: 50px;
+    background-color: #7dd1e4;
+}
