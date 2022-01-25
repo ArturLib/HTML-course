@@ -1,0 +1,234 @@
+* body {
+    margin: 0;
+}
+
+.turquoise-color {
+    background-color: #45c9eb;
+}
+
+.bx-size {
+    box-sizing: border-box;
+}
+
+.border {
+    border: 4px solid #a7cbd6;
+}
+
+.br-radius {
+    border-radius: 20px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.j-content {
+    justify-content: space-evenly;
+}
+
+.j-cont-center {
+    justify-content: center;
+}
+
+.j-cont-right {
+    justify-content: right;
+}
+
+.j-cont-sbetween {
+    justify-content: space-between;
+}
+
+.mg-0 {
+    margin: 0;
+}
+
+.mg-20 {
+    margin: 20px;
+}
+
+.mg-30 {
+    margin: 30px;
+}
+
+.mg-left-10 {
+    margin-left: 10px;
+}
+
+.mg-left-15 {
+    margin-left: 15px;
+}
+
+.mg-right-15 {
+    margin-right: 15px;
+}
+
+.mg-right-50 {
+    margin-right: 50px;
+}
+
+.mg-top-15 {
+    margin-top: 15px;
+}
+
+.mg-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.mg-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.mg-top-0 {
+    margin-top: 0;
+}
+
+.mg-top-10 {
+    margin-top: 10px;
+}
+
+.mg-top-50 {
+    margin-top: 50px;
+}
+
+.mg-top-64 {
+    margin-top: 64px;
+}
+
+.mg-85-150 {
+    margin: 85px 150px;
+}
+
+.pd-5 {
+    padding: 5px;
+}
+
+.pd-20 {
+    padding: 20px;
+}
+
+.pd-30 {
+    padding: 30px;
+}
+
+.pd-top-30 {
+    padding-top: 30px;
+}
+
+.pd-left-50 {
+    padding-left: 50px;
+}
+
+.pd-left-100 {
+    padding-left: 100px;
+}
+
+.pd-right-50 {
+    padding-right: 50px;
+}
+
+.pd-right-100 {
+    padding-right: 100px;
+}
+
+.main-color {
+    background-color: #cfdae2;
+}
+
+.bg-color {
+    background-color: #1f3749;
+}
+
+.h-20 {
+    height: 20px;
+}
+
+.h-30 {
+    height: 30px;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.h-100 {
+    height: 100px;
+}
+
+.h-200 {
+    height: 200px;
+}
+
+.h-280 {
+    height: 280px;
+}
+
+.h-283 {
+    height: 283px;
+}
+
+.w-20 {
+    width: 20px;
+}
+
+.w-100 {
+    width: 100px;
+}
+
+.w-150 {
+    width: 150px;
+}
+
+.w-200 {
+    width: 200px;
+}
+
+.w-315 {
+    width: 315px;
+}
+
+.w-700 {
+    width: 700px;
+}
+
+.w-740 {
+    width: 740px;
+}
+
+.radius {
+    border-radius: 10px;
+}
+
+.radius-5 {
+    border-radius: 5px;
+}
+
+.circle-radius {
+    border-radius: 50%;
+}
+
+.txt {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+.txt-white {
+    text-align: center;
+    color: white;
+}
+
+.txt-color-dblue {
+    color: #1f3749;
+}
+
+.txt-color-turquoise {
+    color: #45c9eb;
+}
+
+.line {
+    border: none;
+    height: 4px;
+    background-color: #a7cbd6;
+}
